@@ -9,6 +9,9 @@ number
 string
 list
 dictionary
+
+boolean :  true,  false
+
 '''
 
 '''

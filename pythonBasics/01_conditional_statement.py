@@ -50,19 +50,23 @@ true and true = true
 
 '''
 
-number = 56
+number = 30
 
-if  80 <= number and number<=100:
+if  (80 <= number and number<=100):
     print("grade A")
 
-elif 70<= number and number<80:
+elif (70<= number and number<80):
     print("grade B")
 
-elif 50<=number and number<70:
+elif (50<=number and number<70):
     print("grade C")
 
 else:
     print("grade F")
+
+
+
+
 
 
 
