@@ -70,21 +70,20 @@ easy to write
 no flexibility in choosing index
 '''
 
-numbers = [5,2,8,3,1]
+# numbers = [5,2,8,3,1]
+# for x in numbers:
+#     print(x)
 
-for x in numbers:
-    print(x)
 
-
-print('-------------------------------')
 
 
 '''
 accessing list through index using range
 felxibility in choosing index
 '''
-for i in range(0, len(numbers), 2 ):
-    print(numbers[i])
+# numbers = [5,2,8,3,1]
+# for i in range(0, len(numbers), 2 ):
+#     print(numbers[i])
 
 
 
