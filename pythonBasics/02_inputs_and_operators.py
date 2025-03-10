@@ -1,4 +1,30 @@
 '''
+input()
+takes a single line from terminal as string
+'''
+
+# name = input("Enter your name: ")  
+
+# print("hello", name)
+
+'''
+to take other datatype from input, we need to convert it from string
+'''
+
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print("answer:", a+b)
+
+
+
+#######################################################
+
+
+
+
+'''
 arithmatic operator:
 '''
 
@@ -97,5 +123,11 @@ if(x):
     print("ABCD")
 else:
     print("XYZ")
+
+
+
+
+
+
 
 
